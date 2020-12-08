@@ -8,7 +8,7 @@ namespace IBLL
     {
         List<Student> GetStudents();
         int DeleStudent(int Sid);
-        int AddStudent(Student s);
+        int AddStudent(Student ssss);  
         List<Student> GetStudentSing(int sid);
         int UpdateStudent(Student s);
         int DeleteStudents(string ids);
