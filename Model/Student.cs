@@ -8,7 +8,7 @@ namespace Model
     {
         public int SIdddd { get; set; }
         public string SName { get; set; }
-        public int SAge { get; set; }
+        public int SAgee { get; set; }
         public string SHome { get; set; }
         public int ClassInfoIdOut { get; set; }
         public string CName { get; set; }
